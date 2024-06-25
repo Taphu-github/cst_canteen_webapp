@@ -1,0 +1,8 @@
+.dailymenu{
+    display: flex;
+    flex-wrap: wrap;
+}
+.grocery{
+    display: flex;
+    flex-wrap: wrap;
+}
